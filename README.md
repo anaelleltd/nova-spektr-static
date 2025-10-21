@@ -1,0 +1,1 @@
+# nova-spektr-static
