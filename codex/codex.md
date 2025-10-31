@@ -1,4 +1,4 @@
-# Background and Context
+# Background
 
 ## A Note on Definitions
 
@@ -51,9 +51,7 @@ However, as a protocol matures and becomes increasingly valuable and relied upon
 
 ---
 
-# The Polkadot Fellowship Solution
-
-## Summary
+# Summary
 
 One of the most pressing areas (if not the most pressing) undermining blockchain networks' decentralisation is that of technical decision making. The avoidance of formalising any specific organisational model is not an act of explicit decentralisation. In fact, it tends to lead to an effective power-structure which is opaque and centralised, as arbitrary and trivial social cues become the driving factors in determining what logic the node operators actually run. It becomes hard to rationalise about this outcome and we lose the credible belief that the network can remain secure, stable and progress to retain its relevance in the ever-changing world, especially in an increasingly unfavourable regulatory environment.
 
@@ -61,7 +59,7 @@ Thus, in order to avoid falling pray to these arbitrary and trivial social facto
 
 The Fellowship can be seen as a political collective in that it has an on-chain voice controlled purely by its members according to some algorithm. It can also be seen as an incentivisation mechanism to help induct and retain expertise and talent important for the network. Finally, it can be seen as a vessel to help guide and support the personal development and maximise every individual's potential to contribute. Taken together, it helps ensure a continued pool of protocol expertise and plugs any power-vacuum which would otherwise be filled by *the papal model* or some legacy off-chain enterprise.
 
-## Rank System
+## Rank
 
 Politically, the Fellowship aims to be a source of expertise and leadership over the technology required in the ongoing maintenance and development of the Polkadot (Main) Network. The members are able to manifest their voice logically and, in protocol terms, exist as an **origin of action** on-chain. However, it is important to note that this has no specific ramifications in controlling the course of the Polkadot protocol. What specific power the collective has within the protocol is granted to it and held in check by other, generally much more inclusive governance apparati such as referenda.
 
@@ -83,7 +81,7 @@ The Fellowship thus aims to embody the expertise over the protocol, its formalis
 
 Pure research, education, public outreach, recruitment, management and mentorship may be incidental activities of some members but it must be understood that these should not constitute the primary contributions for a member to receive recognition. The Fellowship is intended to be only the first of its kind. Should the concept (probably after some iteration) become proven effective, we might reasonably expect more instances of expertise-based organisation "fellowships" for other disciplines not covered by the present Fellowship.
 
-## Specific Technology Coverage
+### Specifics
 
 Based on the above, we may conclude that expertise on the following technology and its strict description(s) and/or implementation(s) would be considered a goal of the Fellowship:
 
@@ -116,19 +114,19 @@ Notable examples of technologies/code which are **not** covered:
 
 Since the Fellowship is about retaining protocol *expertise*, it is not exclusive to developers, but also to ideators, designers, formalisers and research analysts. That said, machine-executable implementations do constitute an absolute requirement of the network's continued existence and thus it may not be unreasonable to expect an outsized proportion of implementors within the Fellowship.
 
-## Benefits
+### Benefits
 
 This refers to what might, in a more legacy context, be considered as the "material aspects" of the organisation. Firstly, members of the Fellowship need to receive support to ensure that their short-term needs are met. If Members cannot afford the time, equipment, accommodation, sustenance, dependents, and leisure activities which life demands, then dedicating themselves to Polkadot becomes unsustainable or unrealistic.
 
 Secondly, it is important that Members feel that their fates are strongly linked to that of the Polkadot network if we are to expect a maximisation of potential. Put another way, we want to ensure that the long-term interests of the Polkadot Network and the individuals critical to its maintenance and development are well-aligned. Thus effective long-term incentivisation acts as both a means of pushing the member to dedicate themselves, as well as an internal compass providing some common cause which can underpin ideological alignment.
 
-## Recognition
+### Recognition
 
 This refers at once to two things: firstly the Polkadot network's ability to **identify** individuals possessing expert knowledge of the protocol and who are most likely to make future contributions. Secondly, as a means of the individual proving to others their expertise over, and dedication to, the network. Both are powerful tools inherent to formalising the expertise-base of the protocol.
 
 Recognition is underpinned by evaluation and recording. While blockchain systems make the act of recording fairly trivial, evaluation must in large part be submitted on-chain through the judgements of existing members. Ensuring those judgements reflect reality is crucial as inaccurate judgements can entirely undermine the social framework. Providing convention on how to evaluate, decentralising the judgement and allowing anonymity to members are all means of encouraging objectivity and accuracy.
 
-## Nurturing
+### Nurturing
 
 The Fellowship must provide the appropriate structure to nurture its members to reach their full potential. This is a rather complex and interwoven aim, but for the purposes of describing concrete goals, can be simplified into pedagogy, social support and, most difficult of all, cultural support.
 
@@ -140,9 +138,7 @@ By way of example, martial artists progressing through their discipline will oft
 
 ---
 
-# Fellowship Governance and Rules
-
-## Tenets
+# Tenets
 
 Members are expected to faithfully uphold the following tenets. Clarifications to the rules should be in agreement with these tenets. Acting in clear breach of these tenets may be considered by voters as grounds for non-promotion, demotion or, in extreme cases, exclusion from the Fellowship.
 
@@ -151,7 +147,9 @@ Members are expected to faithfully uphold the following tenets. Clarifications t
 3. Respect the operational procedures, norms and voting conventions of the Fellowship.  
 4. Respect your fellow Members and the wider community.
 
-## Operational Rules
+---
+
+# Operational Rules
 
 The operational rules of the Fellowship governing how its membership evolves are detailed below. These rules specify the process for becoming a member, attaining a rank and maintaining it.
 
@@ -161,20 +159,20 @@ This leniency, such as it is, should exist only for the initial bootstrapping ph
 
 Note, as per the tenets, the voting of Members is expected to follow the conventions and bylaws of the Fellowship, and in particular the Rank Specifications.
 
-## Entry Process
+## Entry
 
 1. Any account may register to become a Candidate for a basic deposit. This associates the account with a rank of zero. Being a candidate is essentially a formality to help against state bloat and does not provide any additional entitlement for the individual.  
 2. Once the individual is a Candidate, a pre-existing Member may request that they be promoted to a Member.  
-3. **Promotion:**  
+3. Promotion:  
    - All Members of rank at least three are invited to approve or reject the Membership.  
    - The window for voting is open for a one month period.  
    - There must be a majority of rank-weighted votes in favour for the promotion to be approved.  
 4. If the promotion is approved, they attain Membership and their associated rank increments to a value of one.
 
-## Promotion Process
+## Promotion
 
 1. Any Member may request their own promotion subject to the specifications and restrictions of their rank. (Some ranks place hard time limits between subsequent promotions.)  
-2. **Promotion:**  
+2. Promotion:  
    - All Members of rank at least two greater than the prospective (post-promotion) rank are invited to approve or reject the Membership.  
    - The window for voting is open for a one month period.  
    - There must be a majority of rank-weighted votes in favour for the promotion to be approved.  
@@ -182,7 +180,7 @@ Note, as per the tenets, the voting of Members is expected to follow the convent
    - If no members exist with a high-enough rank to affirm the promotion (always the case for promotion to rank eight and nine), then a general referendum of the Polkadot governance system must approve the promotion.  
 3. If the promotion is approved, their associated rank is incremented by one.
 
-## Continuation Requirements
+## Continuation
 
 Ranks are generally kept regardless of current focus, however Members who feel they are not contributing actively for more than two months at a time are expected to voluntarily place themselves on a passive allowance.
 
@@ -192,7 +190,7 @@ There is no concept of suspension. Members are expected to be able to defend the
 
 Master ranks are the exception: once a Master, one generally remains a Master regardless of occupation or knowledge. The only way a Master may be demoted or lose their rank entirely is through being found to have acted contrary to Polkadot's interests through a general Polkadot referendum.
 
-## Rank Voting System
+## Rank Voting
 
 Voting generally happens through cumulative Rank-Voting. This simply means that Members votes are weighted by their Rank as an item in the geometric series. Rank 1 would have a weight of 1, rank 2 would have a weight of 3, rank 3 a weight of 6, &c. Formally:
 
@@ -217,7 +215,7 @@ In the present work, our domain—and with it our problem surface—is intention
 
 The framework provided to help guide voters to make their decision is detailed here but is expected to be tweaked, clarified and built on over time. The framework comes in two broad segments: firstly, general subjects for consideration at least partially relevant at all ranks; and secondly criteria specific to a particular rank. The latter is detailed in **Rank Specifications**, whereas in this section we discuss the former.
 
-## API & Code Design Evaluation
+### API & Code Design
 
 - **Level 0**: Rarely makes any suggestions, asks questions whose answers are easy to discover. Contributes to noise or stays silent and doesn't learn. This is an indication against Membership.  
 - **Level 1**: Generally makes reasonable suggestions for APIs & code, rarely makes bad suggestions (expectation for I Dan).  
@@ -225,7 +223,7 @@ The framework provided to help guide voters to make their decision is detailed h
 - **Level 3**: Occasionally innovative in API & code design, adapting/importing/inventing ideas that lead to effective solutions (expectation for III Dan).  
 - **Level 4**: Often innovative in API & code design (expectation for IV Dan).
 
-## Code Contributions Evaluation
+### Code Contributions
 
 Consideration points when evaluating code contributions. There is no attempt to quantify or describe what is reasonable/expected at a particular rank. However, the code contributions of a candidate may reasonably be judged by comparing the answers of these questions to the contributions of other members already at the prospective rank.
 
@@ -236,7 +234,7 @@ Consideration points when evaluating code contributions. There is no attempt to 
 - **Timeliness**: Was the functionality delivered at the optimum time for maximum value to be extracted through its existence?  
 - **Longevity**: Has a past contribution, in hindsight, been of lasting value or was it quickly reimplemented or removed?
 
-## Social Interaction Evaluation
+### Social Interaction
 
 These are consideration points when evaluating social interactions with other members. Once again, to be evaluated in a comparative manner to other members already of the prospective rank.
 
@@ -245,7 +243,7 @@ These are consideration points when evaluating social interactions with other me
 - The individual is not afraid of calmly and succinctly challenging others when to do so would lead to them having a greater understanding of the world.  
 - The individual is persistently and consistently making themselves available for the support of the network.
 
-## Voting Standards
+### Voting
 
 Though we explicitly acknowledge that judgements on social matters have an inherent level of subjectivity owing in part to the ambiguity inherent in natural language, we nonetheless expect that our efforts at guiding judgements through specific considerations and criteria should introduce a high amount of consensus to most decisions. As such, we might reasonably expect (and, indeed, desire) that lower ranks vote mostly in line with higher ranks.
 
@@ -261,15 +259,13 @@ Secondly, for non-Master members (ranks one to six inclusive), there is a minimu
 
 Finally, all voting is expected to follow the Operational Rules and Rank Specifications; disregarding these should be taken into account at the individual's subsequent evaluation(s).
 
-## Implementation Notes
+### Notes
 
 Ideally, all voting is commit-reveal. However in the interests of expediency an initial implementation may be public.
 
 ---
 
-# Rank System Overview
-
-## Rank Summary Table
+# Rank Summary
 
 | Dan Rank | Name               | Grouping   | From I Dan | Material        | Hardness  | Activity | Agreement |
 |---:|--------------------|------------|------------|-----------------|-----------|----------|-----------|
@@ -288,7 +284,7 @@ Ideally, all voting is commit-reveal. However in the interests of expediency an 
 
 ---
 
-# Detailed Rank Specifications
+# Rank Specifications
 
 ## Candidate
 
@@ -313,7 +309,7 @@ The Candidate must clearly demonstrate an independence of mind and spirit. They 
 
 There is no specific time which must have passed with Polkadot being the individual's primary life-focus prior to attaining this rank, though a reasonable expectation would be that they have been working on core Polkadot technology continuously for around 12 months.
 
-**Requirements**
+### Requirements for I Dan
 
 - Three clear examples of a modest but substantial contribution to protocol development.  
 - Actively been involved in the design of a component. The component should be either deployed into the protocol or reasonably intended for future deployment into protocol **and** at the standard expected of an internationally peer-reviewed publication.  
@@ -327,7 +323,6 @@ Possible examples of a "modest but substantial contribution" may be:
 - proposing a reasonable and non-trivial protocol innovation; or  
 - doing a valuable, innovative and insightful refactoring or simplification.
 
----
 
 ## II Dan: Proficient Member
 
@@ -342,12 +337,11 @@ A member at this rank should be a core part of the team. Clear demonstration of 
 
 It is generally expected that the participant will have been practicing Polkadot as their primary life-focus for at least **one** year, unbroken, after attaining the previous rank.
 
-**Requirements**
+### Requirements for II Dan
 
 - Primary individual responsible for the formalisation, implementation or analytical improvement of a major component of the protocol. Formalisation, and analysis leading to any improvement, should be in a peer-reviewed publication (or there should be a good reason why not). Implementation should be subject to expert code-review and included in a functional implementation of the protocol.  
 - At least one published long-form semi-technical article concerning Polkadot.
 
----
 
 ## III Dan: Fellow
 
@@ -372,7 +366,7 @@ A Fellow must have a comprehensive knowledge of the overall priorities and trade
 
 It is generally expected that the participant will have been practicing Polkadot as their primary life-focus for at least **one** year, unbroken, after attaining the previous rank.
 
-**Requirements**
+### Requirements for III Dan
 
 - **Promotion should involve an in-person grading** during which superiors may invite the individual to answer specific questions concerning their contributions.  
 - Defense should include a conversation on the philosophic principles and their relation to the technology where they demonstrate expert knowledge confidently and betray no misinterpretations. They should be able to confidently defend the existence of Polkadot, compared to other projects in the same industry as well as its wider place in society.  
@@ -380,7 +374,6 @@ It is generally expected that the participant will have been practicing Polkadot
 - Demonstrable presence of knowledge sharing within the ecosystem. This may take several forms: an ecosystem presentation on Polkadot or some component of it; activity on the Polkadot community forum or chat channels; activity on Polkadot-related developer forums such as StackExchange. The medium is not important; the impact is everything.  
 - Either played a supporting role in the ideation and a primary role in the formalisation of a major protocol component; or played a supporting role in the code-design and a primary role in the implementation of a major protocol component. The formalisation should be included in a well-respected peer-reviewed publication or the design implemented and deployed into the protocol. The implementation should be subject to expert code-review and included in a functional implementation of the protocol.
 
----
 
 ## IV Dan: Architect
 
@@ -401,12 +394,11 @@ The individual should be readily able to understand the design space in which so
 
 The participant will have been practicing Polkadot as their primary life-focus for at least **one** year, unbroken, after attaining the previous rank. However, this is only a bare minimum and should not be taken as a presupposition of the expected amount of time required. The candidate should be only be promoted to this grade once the time limit is over **and** they have demonstrated the appropriate aptitude.
 
-**Requirements**
+### Requirements for IV Dan
 
 - Either played a primary role in both the ideation and subsequent formalisation of a major protocol component; or played a primary role in the code-design and implementation of a major protocol component. The formalisation should be included in a well-respected peer-reviewed publication or the design implemented and deployed into the protocol. The implementation should be subject to expert code-review and included in a functional implementation of the protocol.  
 - Further presence of advocating or defending Polkadot outside of the ecosystem. A good benchmark would be one pre-advertised presentation on Polkadot to an industry-wide, academic or other such well-aligned audience outside of the ecosystem. It may also be fulfilled within other media of a similar weight (e.g. a professional journal, major news publication or academic article).
 
----
 
 ## V Dan: Architect Adept
 
@@ -421,14 +413,14 @@ To attain this rank, the candidate must have demonstrated clear levels of archit
 
 The participant will have been practicing Polkadot as their primary life-focus for at least **one** year, unbroken, after attaining the previous rank. However, this is only a bare minimum and should not be taken as a presupposition of the expected amount of time required. The candidate should be only be promoted to this grade once the time limit is over **and** they have demonstrated the appropriate aptitude.
 
-**Requirements**
+### Requirements for V Dan
 
 - Play a primary role in ideating, designing **and** formalising or prototyping a major component.  
 - Usefully assisted in devising ("creating", "inventing", "incepting") three more major components.  
 - Usefully assisted (through advocation, research or rationalisation) in determining the long-term technical roadmap.  
 - At least one published long-form article about technology relevant to but not specifically concerning Polkadot.
 
----
+
 
 ## VI Dan: Grand Architect
 
@@ -443,7 +435,7 @@ This grade is the highest rank to be arrived at through purely technical prowess
 
 The participant will have been practicing Polkadot as their primary life-focus for at least **one** year, unbroken, after attaining the previous rank. However, this is only a bare minimum and should not be taken as a presupposition of the expected amount of time required. The candidate should be only be promoted to this grade once the time limit is over **and** they have demonstrated the appropriate aptitude.
 
-**Requirements**
+### Requirements for VI Dan
 
 - *Devised*, led the *design* and overseen (or led) the implementation of a major protocol innovation.  
 - At least three published long-form articles about technology relevant to but not specifically concerning Polkadot.  
@@ -451,7 +443,6 @@ The participant will have been practicing Polkadot as their primary life-focus f
 
 > *Note:* This is the first rank for which pre-specified discussion points become a crucial part of the grading and where those voting on the promotion must make a qualitative assessment on the outcome of the discussion in comparison to the precedent of prior promotions.
 
----
 
 ## VII Dan: Free Master
 
@@ -472,13 +463,13 @@ Masters need no longer defend their place in the Fellowship. However, promotion 
 
 To attain this rank, the individual **must** have been practicing Polkadot as their primary life-focus for **six** years in total, in addition to the demonstrating the administrative, knowledge, intellectual, social and skill-based qualities expected.
 
-**Requirements**
+### Requirements for VII Dan
 
 - Contributed to the broader understanding of the philosophy behind Polkadot during an in-depth conversation. Perhaps through drawing parallels to existing body of literature, perhaps through rational discourse with experts. Should be ready and confident in their ability to explain and defend the newfound understanding.  
 - Several major presentations on the Polkadot network and protocol with an audience that included peers from other ecosystems and/or industries.  
 - **Discuss:** Does the wider academic community or industry tend to learn from this individual (even if the individual did not discover this knowledge themselves)?
 
----
+
 
 ## VIII Dan: Master Constant
 
@@ -495,14 +486,14 @@ This rank indicates a Master with an elevated level of commitment to furthering 
 
 To attain this rank, the individual **must** have been practicing Polkadot as their primary life-focus for **eleven** years, as well as fulfilling the social and administrative qualities expected of being in the previous rank.
 
-**Requirements**
+### Requirements for VIII Dan
 
 - At least one article considered canonical by masters which further develops the understanding of the philosophical principles underpinning Polkadot.  
 - At least one article about an innovation relevant to but not specifically concerning Polkadot which is ultimately recognised as a pan-industry innovation.  
 - Generally recognised as an intellectual heavyweight outside of the Polkadot ecosystem.  
 - **Discuss:** How did this individual's idea or invention become adopted in the wider academic community or industry?
 
----
+
 
 ## IX Dan: Grand Master
 
@@ -515,16 +506,14 @@ Carbonado is a black form of diamond and the hardest mineral known to man. This 
 
 To attain this rank, the individual **must** have been practicing Polkadot as their primary life-focus for **nineteen** years, as well as fulfilling the social and administrative qualities expected of being in the previous rank.
 
-**Requirements**
+### Requirements for IX Dan
 
 - Generally recognised as a philosophical, social, artistic, political and/or technological heavyweight outside of blockchain or crypto.  
 - **Discuss:** what outstanding service did the individual provide to the Polkadot network?
 
 ---
 
-# Master Ranks and Special Provisions
-
-## Notes on Master Ranks
+# Notes on Master Ranks
 
 The three Dan ranks of Master have a series of sub-ranks (which also function as honours) not recognised within the on-chain voting system and unimportant for voting weight, defined primarily to recognise some exceptional service of the individual to Polkadot. In addition to recognition of effort, they help mark and celebrate milestones within the journey of personal development during which, especially at the stage of Master, time can flow a little too easily with significant events being less apparent.
 
@@ -554,21 +543,23 @@ On elevation to a Master rank, the individual is able to propose an annex (addit
 
 ---
 
-# Fellowship Operations and Support
-
-## Allowances
+# Allowances
 
 These are a monthly affordance, paid in DOT. There are two levels: standard and passive. Standard should be between the 80th–90th percentile of gross income in the OECD group of countries. Passive is no greater than 50% of standard. The total amount given as passive allowance should be no greater than 10% of the total amount given as standard allowance.
 
 Members are free to place themselves on a passive allowance if they believe they are unlikely to contribute substantially within any given month. (At challenge or grading time, members who do not may find the lack of productivity difficult to explain.) Regardless, members must keep their knowledge and skills up to date.
 
-## Prizes
+---
+
+# Prizes
 
 Since sub-ranks are not available to Members, Members, and especially Masters, are invited to create **honourable prizes**. Prizes should include some sort of endowment (e.g. a DOT gilt or high quality staked DOT derivative) and a description of what it should be awarded for and who should judge. A reasonable selection would be a Masters level vote, but need not be.
 
 Prizes should eventually be recorded on-chain but an initial implementation may not.
 
-## Events and Gatherings
+---
+
+# Events and Gatherings
 
 At least once per year the members of the Fellowship should gather. This should be paid for by the treasury. Lower gradings (I–III Dan) should happen here (though I and II Dan may happen remotely).
 
@@ -576,9 +567,7 @@ There should be additional meetings exclusively for Fellows and (when there are 
 
 ---
 
-# Appendices
-
-## Terminology
+# Appendix A. Terminology
 
 - **Architect**: A member of the Fellowship whose rank is between least four and six inclusive.  
 - **Candidate**: An individual who is not yet a member of the Fellowship; they may be said to be "unranked", but logically their rank may be inferred as zero.  
@@ -588,30 +577,34 @@ There should be additional meetings exclusively for Fellows and (when there are 
 - **Member**: A member of the Fellowship; this implies their rank is at least one.  
 - **Primarily**: The case where a single individual is responsible for the vast majority of work done such that if no others contributed then a (perhaps lesser but still correct and useful) artefact would be delivered.
 
-## Philosophy & Principles of Polkadot
+---
+
+# Appendix B. Philosophy & Principles of Polkadot
 
 > *Note: This section needs substantial improvement in the coming months.*
 
-### Enlightened Liberalism
+## Enlightened Liberalism
 
 Honesty and freedom. But respect, politeness and tolerance.  
 **Required reading:** *The Open Society and its Enemies*
 
-### Critical Rationalism
+## Critical Rationalism
 
 Judge only by actions, not suppositions, associations or words.  
 **Required reading:** *A Pocket Popper*
 
-### Web3
+## Web3
 
 Reduce the need for the individual to trust the group by providing them with tools to interact usefully with the world themselves.  
 **Required reading:** *What Web3.0 looks like*
 
-### Polkadot
+## Polkadot
 
 Decentralised, empower the individual.
 
-## Meta-notes
+---
+
+# Appendix C. Meta-notes
 
 > *Note: This section captures the current train of thought and is better moved to an online forum for community discussion.*
 
@@ -636,4 +629,4 @@ Decentralised, empower the individual.
 - Bring in smaller milestones e.g. public technical presentation.  
 - Bring in knowledge of principles: enlightened liberalism; critical rationalism; Web3 & truth vs trust; Polkadot and its five guiding tenets in the paper. Candidates should move from basic knowledge to the ability to converse to eventually having a deep understanding and contributing back.
 
----
+
