@@ -155,7 +155,7 @@ The operational rules of the Fellowship governing how its membership evolves are
 
 During the initial bootstrapping phase some relaxations of these rules may be made in order to expediate decentralisation and ensure pluralism as early as possible in the member judgement process. Specifically, it may be reasonable to have shortened voting timelines and remove the need for some peripheral, demonstrative requirements if and only if it is obvious that the candidate in question possesses the relevant technical knowledge. In all cases, time limits on ranks should still generally be respected.
 
-This leniency, such as it is, should exist only for the initial bootstrapping phase. By the first continuation grading, the full expectations of the member's rank should be met for approval by voters.
+This leniency, such as it is, should exist only for the initial bootstrapping phase. By the first continuation evaluation ~~grading~~, the full expectations of the member's rank should be met for approval by voters.
 
 Note, as per the tenets, the voting of Members is expected to follow the conventions and bylaws of the Fellowship, and in particular the Rank Specifications.
 
@@ -184,7 +184,7 @@ Note, as per the tenets, the voting of Members is expected to follow the convent
 
 Ranks are generally kept regardless of current focus, however Members who feel they are not contributing actively for more than two months at a time are expected to voluntarily place themselves on a passive allowance.
 
-Once over a period of time (three months for members below the rank of Fellow, six months for non-Master members who are Fellows or beyond) are automatically demoted unless their rank is re-approved by their peers. This upvote is similar to a grading and they should submit clear and concise evidence showing they are retaining the qualities expected of a member of their rank and have been contributing substantially for the period of time they have been on standard allowance.
+Once over a period of time (three months for members below the rank of Fellow, six months for non-Master members who are Fellows or beyond) are automatically demoted unless their rank is re-approved by their peers. This upvote is similar to an evaluation ~~grading~~ and they should submit clear and concise argument ~~evidence~~ showing they are retaining the qualities expected of a member of their rank and have been contributing substantially for the period of time they have been on standard allowance.
 
 There is no concept of suspension. Members are expected to be able to defend their rank every three or six months. The price for effectively suspending one's role (assuming one is not a Master) is a slow demotion through the ranks.
 
@@ -368,7 +368,7 @@ It is generally expected that the participant will have been practicing Polkadot
 
 ### Requirements for III Dan
 
-- **Promotion should involve an in-person grading** during which superiors may invite the individual to answer specific questions concerning their contributions.  
+- **Promotion should involve an in-person evaluation ~~grading~~** during which superiors may invite the individual to answer specific questions concerning their contributions.  
 - Defense should include a conversation on the philosophic principles and their relation to the technology where they demonstrate expert knowledge confidently and betray no misinterpretations. They should be able to confidently defend the existence of Polkadot, compared to other projects in the same industry as well as its wider place in society.  
 - Substantial presence in defending or advocating Polkadot outside of the ecosystem. This may take one of several forms: at least three published long-form semi-technical articles concerning Polkadot; substantial presence on social media used by other industry participants; presence within conferences or publications of a specific academic or industrial discipline.  
 - Demonstrable presence of knowledge sharing within the ecosystem. This may take several forms: an ecosystem presentation on Polkadot or some component of it; activity on the Polkadot community forum or chat channels; activity on Polkadot-related developer forums such as StackExchange. The medium is not important; the impact is everything.  
@@ -441,7 +441,7 @@ The participant will have been practicing Polkadot as their primary life-focus f
 - At least three published long-form articles about technology relevant to but not specifically concerning Polkadot.  
 - **Discuss:** What have you learnt from this individual which you might ultimately find useful in your efforts to help Polkadot succeed?
 
-> *Note:* This is the first rank for which pre-specified discussion points become a crucial part of the grading and where those voting on the promotion must make a qualitative assessment on the outcome of the discussion in comparison to the precedent of prior promotions.
+> *Note:* This is the first rank for which pre-specified discussion points become a crucial part of the evaluation ~~grading~~ and where those voting on the promotion must make a qualitative assessment on the outcome of the discussion in comparison to the precedent of prior promotions.
 
 
 ## VII Dan: Free Master
@@ -547,7 +547,7 @@ On elevation to a Master rank, the individual is able to propose an annex (addit
 
 These are a monthly affordance, paid in DOT. There are two levels: standard and passive. Standard should be between the 80th–90th percentile of gross income in the OECD group of countries. Passive is no greater than 50% of standard. The total amount given as passive allowance should be no greater than 10% of the total amount given as standard allowance.
 
-Members are free to place themselves on a passive allowance if they believe they are unlikely to contribute substantially within any given month. (At challenge or grading time, members who do not may find the lack of productivity difficult to explain.) Regardless, members must keep their knowledge and skills up to date.
+Members are free to place themselves on a passive allowance if they believe they are unlikely to contribute substantially within any given month. (At challenge or evaluation ~~grading~~ time, members who do not may find the lack of productivity difficult to explain.) Regardless, members must keep their knowledge and skills up to date.
 
 ---
 
@@ -561,9 +561,9 @@ Prizes should eventually be recorded on-chain but an initial implementation may 
 
 # Events and Gatherings
 
-At least once per year the members of the Fellowship should gather. This should be paid for by the treasury. Lower gradings (I–III Dan) should happen here (though I and II Dan may happen remotely).
+At least once per year the members of the Fellowship should gather. This should be paid for by the treasury. Lower evaluations ~~gradings~~ (I–III Dan) should happen here (though I and II Dan may happen remotely).
 
-There should be additional meetings exclusively for Fellows and (when there are practical numbers) Masters. Information on these meetings should (for security purposes) be kept on a need-to-know basis. Disregarding this is a breach of Fellowship rules. Upper gradings (IV–VI Dan) should happen here.
+There should be additional meetings exclusively for Fellows and (when there are practical numbers) Masters. Information on these meetings should (for security purposes) be kept on a need-to-know basis. Disregarding this is a breach of Fellowship rules. Upper evaluations ~~gradings~~ (IV–VI Dan) should happen here.
 
 ---
 
@@ -618,14 +618,14 @@ Decentralised, empower the individual.
 
 ## Ideas & Considerations
 
-- Introducing shadowing a pre-existing Fellow as a requirement for Fellow grading.  
+- Introducing shadowing a pre-existing Fellow as a requirement for Fellow evaluation ~~grading~~.  
 - Introduce sponsors:  
   - A sponsor is required for each candidate or member who seeks a promotion.  
   - The sponsor must be a member of at least two ranks greater than the rank sought for promotion.  
   - If a promotion is denied, the sponsor may not sponsor further promotions for a period of six months.  
 - Require also a small write-up of lessons learned at each grade, especially following the shadowing.  
 - Master ranks should be encouraged to develop into disciplines separate to Polkadot and find ways to contribute their learnings back into the whole.  
-- In general, gradings should be conducted in-person. From III Dan grading and above, they **MUST** be in-person unless environmental conditions make it impossible (e.g. pandemic). If the individual wishes to remain anonymous, a mask or other facial-covering may be worn.  
+- In general, evaluations ~~gradings~~ should be conducted in-person. From III Dan evaluation ~~grading~~ and above, they **MUST** be in-person unless environmental conditions make it impossible (e.g. pandemic). If the individual wishes to remain anonymous, a mask or other facial-covering may be worn.  
 - Bring in smaller milestones e.g. public technical presentation.  
 - Bring in knowledge of principles: enlightened liberalism; critical rationalism; Web3 & truth vs trust; Polkadot and its five guiding tenets in the paper. Candidates should move from basic knowledge to the ability to converse to eventually having a deep understanding and contributing back.
 
