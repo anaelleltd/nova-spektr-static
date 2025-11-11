@@ -566,6 +566,19 @@ At least once per year the members of the Fellowship should gather. This should 
 There should be additional meetings exclusively for Fellows and (when there are practical numbers) Masters. Information on these meetings should (for security purposes) be kept on a need-to-know basis. Disregarding this is a breach of Fellowship rules. Upper evaluations ~~gradings~~ (IV–VI Dan) should happen here.
 
 ---
+---
+
+# References
+
+[1] Moxie Marlinspike. My first impressions of web3. https://moxie.org/2022/01/07/web3-first-impressions.html, 2022.
+
+[2] Eric Raymond. The cathedral and the bazaar. Knowledge, Technology & Policy, 12(3):23–49, 1999.
+
+[3] Evan Sultanik, Trent Brunson, Mike Myers, Alexander Remie, Sam Moelius, Talley Amir, Felipe Manzano, Eric Kilmer, and Sonya Schriner. Are blockchains decentralized? unintended centralities in distributed ledgers. Technical report, Trail of Bits, 2022.
+
+[4] Gavin Wood. Ethereum: a secure decentralised generalised transaction ledger. http://gavwood.com/paper.pdf, 2014.
+
+---
 
 # Appendix A. Terminology
 
@@ -628,5 +641,4 @@ Decentralised, empower the individual.
 - In general, evaluations ~~gradings~~ should be conducted in-person. From III Dan evaluation ~~grading~~ and above, they **MUST** be in-person unless environmental conditions make it impossible (e.g. pandemic). If the individual wishes to remain anonymous, a mask or other facial-covering may be worn.  
 - Bring in smaller milestones e.g. public technical presentation.  
 - Bring in knowledge of principles: enlightened liberalism; critical rationalism; Web3 & truth vs trust; Polkadot and its five guiding tenets in the paper. Candidates should move from basic knowledge to the ability to converse to eventually having a deep understanding and contributing back.
-
 
