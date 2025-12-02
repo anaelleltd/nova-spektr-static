@@ -75,7 +75,7 @@ Aside from the on-chain element and its usage within an agile economic system, l
 
 While the need for, and broad intention of, the Fellowship is now clear it is important to define its specific goals. We can break these down into benefits, recognition and nurturing.
 
-The Polkadot Fellowship focusses on the sustenance and enrichment of technical expertise relied upon primarily by the Polkadot Main Network. Technologies specific to the core protocol and its practical realisations are explicitly covered. Technologies not specific to the core protocol are generally not covered. While members may engage in any number of activities beyond immediate technical work (designing, programming, debugging), the goal of the organisation is nonetheless that of building technical knowledge critical for the continued existance and evolution of the network protocol itself.
+The Polkadot Fellowship focusses on the sustenance and enrichment of technical expertise relied upon primarily by the Polkadot Main Network. Technologies specific to the core protocol and its practical realisations are explicitly covered. Technologies not specific to the core protocol are generally not covered. While members may engage in any number of activities beyond immediate technical work (designing, programming, debugging), the goal of the organisation is nonetheless that of building technical knowledge critical for the continued existence and evolution of the network protocol itself.
 
 The Fellowship thus aims to embody the expertise over the protocol, its formalisation and design which is utilised by any realisation of the Polkadot meta-protocol (*i.e.* a node implementation), as well as any specific realisation of the Polkadot runtime and any code or technology primarily utilised for the routine maintenance of the network and without which would seriously inhibit the network's potential to sustain itself.
 
@@ -91,7 +91,7 @@ Based on the above, we may conclude that expertise on the following technology a
 - trust-free bridges relying on said consensus algorithms (planned to be) utilised by system chains;
 - parachain consensus;
 - cross-chain message passing (XCMP, HRMP, DMP & UMP);
-- the Polkadot libp2p-based peer networking protocol;
+- the *Polkadot ~~libp2p-based peer~~ networking ~~protocol~~ stack*;
 - the Polkadot topology strategies;
 - chain synchronisation strategies utilised by Polkadot;
 - the Polkadot business-logic (aka the "runtime");
@@ -100,7 +100,8 @@ Based on the above, we may conclude that expertise on the following technology a
 - runtime and host APIs;
 - the XCM specification and realisation;
 - standard RPCs;
-- user-interface code required to practically execute upgrades to the Polkadot (Main) Network; and
+- *core technologies needed to enable the existence of the Polkadot Network and its Native feature set;*
+- *user-interface code required to carry out the technical work (designing, programming, debugging) required to maintain Polkadot (Main) Network, including operational upgrades* ~~user-interface code required to practically execute upgrades to the Polkadot (Main) Network~~; and
 - code or technology required by, and utilised primarily for, any code or technology already included.
 
 In short, if expertise on a technology (or a specific implementation of it) is **required** and **primarily used** for the Polkadot (Main) Network to continue **operating** and **improving**, then it is covered. If it is not then it is not.
