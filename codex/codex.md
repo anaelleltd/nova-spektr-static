@@ -168,7 +168,7 @@ Note, as per the tenets, the voting of Members is expected to follow the convent
    - All Members of rank at least three are invited to approve or reject the Membership.  
    - The window for voting is open for a one month period.  
    - There must be a majority of rank-weighted votes in favour for the promotion to be approved.  
-4. If the promotion is approved, they attain Membership and their associated rank increments to a value of one.
+4. If the promotion is approved, they attain Membership and their associated rank increments to a value of one, *unless stated otherwise*.
 
 ## 4.2. Promotion
 
@@ -179,15 +179,17 @@ Note, as per the tenets, the voting of Members is expected to follow the convent
    - There must be a majority of rank-weighted votes in favour for the promotion to be approved.  
    - In the case of promotion to rank seven or above, all Fellows (members of rank three or greater) are invited to vote.  
    - If no members exist with a high-enough rank to affirm the promotion (always the case for promotion to rank eight and nine), then a general referendum of the Polkadot governance system must approve the promotion.  
-3. If the promotion is approved, their associated rank is incremented by one.
+3. If the promotion is approved, their associated rank is incremented by one, *unless stated othervise*.
+
+*Note, Fellows reserve the right to increment the rank of a candicate or a member by two. This is a special case that should be thoroughly reviewed by all Members of rank at least three or approved through a general Polkadot referendum.*
 
 ## 4.3. Continuation
 
-Ranks are generally kept regardless of current focus, however Members who feel they are not contributing actively for more than two months at a time are expected to voluntarily place themselves on a passive allowance.
+Ranks are generally kept regardless of current focus, however Members who feel they are not contributing actively for more than two months at a time are expected to voluntarily place themselves on a passive allowance. 
 
-Once over a period of time (three months for members below the rank of Fellow, six months for non-Master members who are Fellows or beyond) are automatically demoted unless their rank is re-approved by their peers. This upvote is similar to an evaluation ~~grading~~ and they should submit clear and concise argument ~~evidence~~ showing they are retaining the qualities expected of a member of their rank and have been contributing substantially for the period of time they have been on standard allowance.
+Once over a period of time (three months for members below the rank of Fellow, six months for non-Master members who are Fellows or beyond) are automatically demoted unless their rank is re-approved by their peers. This upvote is similar to an evaluation ~~grading~~ and they should submit clear and concise argument ~~evidence~~ showing they are retaining the qualities expected of a member of their rank and have been contributing substantially for the period of time they have been on standard allowance. 
 
-There is no concept of suspension. Members are expected to be able to defend their rank every three or six months. The price for effectively suspending one's role (assuming one is not a Master) is a slow demotion through the ranks.
+There is no concept of suspension. Members are expected to be able to defend their rank every three or six months, *even when placed on a passive allowance*. The price for effectively suspending one's role (assuming one is not a Master) is a slow demotion through the ranks.
 
 Master ranks are the exception: once a Master, one generally remains a Master regardless of occupation or knowledge. The only way a Master may be demoted or lose their rank entirely is through being found to have acted contrary to Polkadot's interests through a general Polkadot referendum.
 
