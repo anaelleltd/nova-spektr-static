@@ -181,7 +181,7 @@ Note, as per the tenets, the voting of Members is expected to follow the convent
    - If no members exist with a high-enough rank to affirm the promotion (always the case for promotion to rank eight and nine), then a general referendum of the Polkadot governance system must approve the promotion.  
 3. If the promotion is approved, their associated rank is incremented by one, *unless stated othervise*.
 
-*Note, Fellows reserve the right to increment the rank of a candicate or a member by two. This is a special case that should be thoroughly reviewed by all Members of rank at least three or approved through a general Polkadot referendum.*
+*Note, Fellows reserve the right to increment the rank of a candidate or a member by two. This is a special case that should be thoroughly reviewed by all Members of rank at least three or approved through a general Polkadot referendum.*
 
 ## 4.3. Continuation
 
